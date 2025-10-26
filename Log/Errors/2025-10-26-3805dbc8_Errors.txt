@@ -1,0 +1,5 @@
+Error during artifact generation: Could not find file '/Users/etimnkposong/repos/AzDevOpsDemoGenerator/src/ADOGenerator\\\PreSetting\ProjectSettings.json'.
+
+Artifacts generation failed.
+
+Artifacts generation failed.
