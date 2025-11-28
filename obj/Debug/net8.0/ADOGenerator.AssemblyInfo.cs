@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ADOGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73b9f27b29d023a0db3ab4c203ef0f9e6a169c37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3998a19b8c9a30c3f90f91b7b828f5e6a85ef62b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ADOGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ADOGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
