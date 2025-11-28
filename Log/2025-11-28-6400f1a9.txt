@@ -1,0 +1,21 @@
+
+Enter the option number from the list of options above:
+
+Template Details
+
+Enter the template number from the list of templates above:
+Template 'PartsUnlimited' is present.
+
+Choose authentication method: 1. Device Login using AD auth 2. Personal Access Token (PAT)
+
+Enter your Azure DevOps organization name:
+
+Enter your Azure DevOps personal access token:
+
+Enter the new project name:
+Project PartsUnlimited created
+Importing source code
+Source code imported to PartsUnlimited repository
+Work Items created
+Build definition created
+Queries, Widgets and Charts created

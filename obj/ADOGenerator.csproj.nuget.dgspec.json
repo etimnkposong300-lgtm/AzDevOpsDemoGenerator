@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/etimnkposong/repos/AzDevOpsDemoGenerator/src/ADOGenerator/ADOGenerator.csproj": {}
+    "/Users/etimnkposong/repos/azure/AzDevOpsDemoGenerator/src/ADOGenerator/ADOGenerator.csproj": {}
   },
   "projects": {
-    "/Users/etimnkposong/repos/AzDevOpsDemoGenerator/src/ADOGenerator/ADOGenerator.csproj": {
+    "/Users/etimnkposong/repos/azure/AzDevOpsDemoGenerator/src/ADOGenerator/ADOGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/etimnkposong/repos/AzDevOpsDemoGenerator/src/ADOGenerator/ADOGenerator.csproj",
+        "projectUniqueName": "/Users/etimnkposong/repos/azure/AzDevOpsDemoGenerator/src/ADOGenerator/ADOGenerator.csproj",
         "projectName": "ADOGenerator",
-        "projectPath": "/Users/etimnkposong/repos/AzDevOpsDemoGenerator/src/ADOGenerator/ADOGenerator.csproj",
+        "projectPath": "/Users/etimnkposong/repos/azure/AzDevOpsDemoGenerator/src/ADOGenerator/ADOGenerator.csproj",
         "packagesPath": "/Users/etimnkposong/.nuget/packages/",
-        "outputPath": "/Users/etimnkposong/repos/AzDevOpsDemoGenerator/src/ADOGenerator/obj/",
+        "outputPath": "/Users/etimnkposong/repos/azure/AzDevOpsDemoGenerator/src/ADOGenerator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/etimnkposong/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/etimnkposong/repos/AzDevOpsDemoGenerator/src/API/API.csproj": {
-                "projectPath": "/Users/etimnkposong/repos/AzDevOpsDemoGenerator/src/API/API.csproj"
+              "/Users/etimnkposong/repos/azure/AzDevOpsDemoGenerator/src/API/API.csproj": {
+                "projectPath": "/Users/etimnkposong/repos/azure/AzDevOpsDemoGenerator/src/API/API.csproj"
               }
             }
           }
@@ -127,14 +127,14 @@
         }
       }
     },
-    "/Users/etimnkposong/repos/AzDevOpsDemoGenerator/src/API/API.csproj": {
+    "/Users/etimnkposong/repos/azure/AzDevOpsDemoGenerator/src/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/etimnkposong/repos/AzDevOpsDemoGenerator/src/API/API.csproj",
+        "projectUniqueName": "/Users/etimnkposong/repos/azure/AzDevOpsDemoGenerator/src/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/etimnkposong/repos/AzDevOpsDemoGenerator/src/API/API.csproj",
+        "projectPath": "/Users/etimnkposong/repos/azure/AzDevOpsDemoGenerator/src/API/API.csproj",
         "packagesPath": "/Users/etimnkposong/.nuget/packages/",
-        "outputPath": "/Users/etimnkposong/repos/AzDevOpsDemoGenerator/src/API/obj/",
+        "outputPath": "/Users/etimnkposong/repos/azure/AzDevOpsDemoGenerator/src/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/etimnkposong/.nuget/NuGet/NuGet.Config"

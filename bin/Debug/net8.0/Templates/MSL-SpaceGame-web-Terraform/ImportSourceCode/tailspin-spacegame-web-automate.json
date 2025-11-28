@@ -1,9 +1,0 @@
-{
-  "parameters": {
-    "gitSource": {
-      "url": "https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web-automate"
-    },
-    "serviceEndpointId": "$tailspin-spacegame-web-automate-code$",
-    "deleteServiceEndpointAfterImportIsDone": true
-  }
-}

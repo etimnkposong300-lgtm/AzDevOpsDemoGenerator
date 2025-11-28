@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "unKuvV4Y2xU=",
+  "dgSpecHash": "Jr/Hq1Jq4jA=",
   "success": true,
-  "projectFilePath": "/Users/etimnkposong/repos/AzDevOpsDemoGenerator/src/ADOGenerator/ADOGenerator.csproj",
+  "projectFilePath": "/Users/etimnkposong/repos/azure/AzDevOpsDemoGenerator/src/ADOGenerator/ADOGenerator.csproj",
   "expectedPackageFiles": [
     "/Users/etimnkposong/.nuget/packages/log4net/3.0.3/log4net.3.0.3.nupkg.sha512",
     "/Users/etimnkposong/.nuget/packages/microsoft.aspnet.webapi.client/5.2.7/microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
